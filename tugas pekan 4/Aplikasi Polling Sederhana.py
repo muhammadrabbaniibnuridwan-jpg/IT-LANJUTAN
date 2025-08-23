@@ -3,16 +3,16 @@
 # Struktur data survei
 SURVEI = [
     {
-        "pertanyaan": "Apa bahasa pemrograman favoritmu?",
-        "opsi": ["Python", "JavaScript", "Java", "C++"]
+        "pertanyaan": "Apa agama mu?",
+        "opsi": ["kristen", "islam", "hindu", "budda"]
     },
     {
-        "pertanyaan": "Apa sistem operasi yang paling sering kamu gunakan?",
-        "opsi": ["Windows", "macOS", "Linux"]
+        "pertanyaan": "apa nama kitab suci mu?",
+        "opsi": ["quran", "injil", "taurot"]
     },
     {
-        "pertanyaan": "Tim mana yang akan menang di final piala dunia?",
-        "opsi": ["Argentina", "Prancis", "Brasil", "Jerman"]
+        "pertanyaan": "cita cita kmu mau menjadi?",
+        "opsi": ["pemain bola", "dokter", "guz", "kyai","pak ustadz"]
     }
 ]
 
