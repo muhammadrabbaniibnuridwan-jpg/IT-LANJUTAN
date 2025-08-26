@@ -1,4 +1,4 @@
-for i in range(1,6):
-    for j in range (i):
-        print(i, end=" ")
+for l in range(1,6):
+    for k in range (l):
+        print(l, end=" ")
     print()
